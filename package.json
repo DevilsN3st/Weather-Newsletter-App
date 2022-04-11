@@ -1,0 +1,27 @@
+{
+  "name": "pixels-weather",
+  "version": "1.0.0",
+  "description": "💻 Tech-stack : Node.js Express EJS Javascript",
+  "main": "app.js",
+  "scripts": {
+    "start": "node your-script.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "author": "harsh",
+  "license": "ISC",
+  "bugs": {
+    "url": ""
+  },
+  "homepage": "",
+  "dependencies": {
+    "body-parser": "^1.20.0",
+    "dotenv": "^16.0.0",
+    "ejs": "^3.1.6",
+    "express": "^4.17.3",
+    "i": "^0.3.7",
+    "request": "^2.88.2"
+  }
+}
